@@ -1,0 +1,38 @@
+\beginsong{Zamba del Laurel}[by={Cuchi Leguizamón}]
+		\beginverse
+		\[G]Si lo verde tu\[E7]viera otro \[Am]nombre
+		\[D7]Debería llamarse ro\[G]cío \\
+		\[Bm7(b5)]Si pudiera vol\[E7]ver desde el \[Am]agua al laurel
+		\[D7]Volvería a la in\[G]fancia del río
+		\endverse
+		
+		\beginverse
+		\[G]En lo verde lau\[E7]rel de tus \[Am]ojos
+		\[D7]El misterio del bosque se a\[G]soma \\
+		\[Bm7(b5)]Y la vida otra \[E7]vez vuelve \[Am]flor de tu piel
+		\[D7]Bajo un sol de mu\[G]chacha y aroma
+		\endverse
+		
+		\beginchorus
+		\[C#m7(b5)]Déjame en lo \[F#7]verde celebrar el \[Bm7]día
+		Porque por lo \[Am]verde regreso a la \[B7]vida \[Em] \\
+		\[Cmaj7]Yo \[C#dim]muero para \[Bm7]volver
+		Juntando ro\[Am]cío en la \[D7]flor del lau\[Dm]rel \[G7] \\
+		\[Cmaj7]Yo \[C#dim]muero para \[G]volver
+		Juntando ro\[Am]cío en la \[D7]flor del lau\[G]rel
+		\endchorus
+		
+		\beginverse
+		\[G]Si lo verde su\[E7]piera tu \[Am]nombre
+		\[D7]La ternura no me olvida\[G]ría \\
+		\[Bm7(b5)]Porque viene de \[E7]vos, puro y \[Am]simple el verdor
+		\[D7]Como el simple ver\[G]dor de la vida
+		\endverse
+		
+		\beginverse
+		\[G]Se me ha vuelto co\[E7]gollo el si\[Am]lencio
+		\[D7]De esperarte a la orilla del \[G]río \\
+		\[Bm7(b5)]Y me gusta sa\[E7]ber que un a\[Am]roma a laurel
+		\[D7]Te llenó de ro\[G]cío el olvido
+		\endverse
+		\endsong

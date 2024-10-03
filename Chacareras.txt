@@ -1,0 +1,127 @@
+
+ 
+\beginsong{Chacarera de un triste}[by={Hnos. Simón}]
+		
+		
+ \stepcounter{songcount} 
+\beginverse
+		\[Em]Para qué quiero vivir \\
+		\[G]Con el corazón deshecho \\
+		\[A]Para qué quiero la \[G]vida \\
+		\[B7]después de lo que me has \[Em]hecho.
+		\endverse
+		
+		\beginverse
+		\[Em]Yo te di mi corazón \\
+		\[G]vos el tuyo voz me entregaste \\
+		\[A]con engaño y así el \[G]mío \\
+		\[B7]prenda lo despedaz\[Em]aste.
+		\endverse
+		
+		\beginverse
+		\[Em]Ay por qué fuiste tan cruel \\
+		\[G]si tu cariño esperaba \\
+		\[A]por qué jugaste con \[G]migo \\
+		\[B7]prenda si te idolatr\[Em]aba.
+		\endverse
+		
+		\beginverse
+		\[Em]Yo del mundo olvide \\
+		\[G]desengaños y amarguras \\
+		\[A]pero lo que vos me \[G]hiciste \\
+		\[B7]prenda mi alma perd\[Em]ura.
+		\endverse
+		
+		\beginverse
+		\[Em]Seguí guitarra seguí \\
+		\[G]seguí como yo llorando \\
+		\[A]compañera hasta la \[G]muerte \\
+		\[B7]seguí mi alma consola\[Em]ndo.
+		\endverse
+		
+		\beginverse
+		\[Em]No hay consuelo ya lo sé \\
+		\[G]para que voy a buscarlo \\
+		\[A]tan deshecha tengo el \[G]alma \\
+		\[B7]que inútil será log\[Em]rarlo.
+		\endverse
+		
+		\beginverse
+		\[Em]Cantando me pasaré \\
+		\[G]muy triste esta chacarera \\
+		\[A]pueda ser que vos te \[G]acuerdes \\
+		\[B7]en el momento que mu\[Em]era.
+		\endverse
+		
+		\beginverse
+		\[Em]Seguí guitarra seguí \\
+		\[G]prenda por lo que me hiciste \\
+		\[A]rasgueando toda la \[G]noche \\
+		\[B7]La chacarera del \[Em]triste.
+		\endverse
+		\endsong
+ 
+\beginsong{Salamanqueando pa' mi}[by={Raúl Carnota}]
+	
+	
+ \stepcounter{songcount} 
+\beginverse
+	\[C]Cuando me pille la muerte \\
+	\[A7]la vi'a es\[G]perar \\
+	cajoneando fuerte el bombo \\
+	\[A7]l'haigo bai\[G]lar. \\
+	\[G]Salaman\[A7]ca, \[B7]llevate\[Em]la.
+	\endverse
+		
+	\beginverse
+	\[C]Me tope con una bruja \\
+	\[A7]y al des\[G]pertar \\
+	m'encontrado con mi suegra \\
+	\[A7]y se va a que\[G]dar, \\
+	\[G]Salaman\[A7]ca, \[B7]llevate\[Em]la.
+	\endverse
+		
+	\beginverse
+	\[C]El diablo me anda buscando \\
+	\[A7]no me encon\[G]tró \\
+	parece ser que le debo \\
+	\[A7]un alma o \[G]dos \\
+	\[G]Salaman\[A7]ca, \[B7]llevate\[Em]la.
+	\endverse
+		
+	\beginchorus
+	\[C]MI chacarerita doble \\
+	es \[A7]la sin \[G]sol \\
+	machadito y por las noches \\
+	\[A7]sale me\[G]jor. \\
+	\[G]Salaman\[A7]ca, \[B7]llevate\[Em]lo.
+	\endchorus
+		
+		
+	\beginverse
+	\[C]Mi mujer se me ha ido \\
+	\[A7]y un desper\[G]tar \\
+	yo me la encontre gritando \\
+	\[A7]a traba\[G]jar! \\
+	\[G]Salaman\[A7]ca, \[B7]llevate\[Em]lo.
+	\endverse
+		
+	\beginverse
+	\[C]Es agarrado el pulpero \\
+	\[A7]creame\[G]ló \\
+	despues de los veinte vinos \\
+	\[A7]no mas le \[G]fió. \\
+	\[G]Salaman\[A7]ca, \[B7]llevate\[Em]lo.
+	\endverse
+		
+	
+	\beginverse
+	\[C]Me han robado un gallo flaco \\
+	\[A7]y sin espo\[G]lón \\
+	no'i pa riña, ni puchero, \\
+	pobre la\[G]drón. \\
+	\[G]Salaman\[A7]ca, \[B7]llevate\[Em]lo.
+	\endverse
+		
+\endsong
+ 

@@ -1,0 +1,30 @@
+\beginsong{Agitando pañuelos}[by={Adolfo Ábalos}]
+
+		\beginverse
+		\[Em]Te \[E7]vi, no olvida\[Am]ré un carna\[D7]val, guitarra, bombo y vio\[G]lín \[B7] \\
+		\[Em]Agitando pa\[D]ñuelos te \[C]vi, cadencia al \[B7]bailar, airosa el \[Am]perfil \[G] \[B7] \[Em] \\
+		\endverse
+		
+		\beginverse
+		\[E7]Me \[Am]fui diciendo a\[D7]diós y en ese a\[G]diós quedó enredado un \[B7]querer \\
+		\[Em]Agitando pa\[D]ñuelos me \[C]fui ¡Qué lindo \[B7]añorar tu zamba de \[Am]ayer! \[G] \[B7] \[Em] \\
+		\endverse
+		
+		\beginchorus
+		\[Em]Yo me \[E7]iré tu ven\[Am]drá Yo te lle\[D7]varé, mi rancho se alegre\[G]rá \[B7] \\
+		\[Em]Agitando pa\[D]ñuelos me \[C]iré y en mí vivi\[B7]rá aquel carna\[Am]val \[G] \[B7] \[Em] \\
+		\[Em]Agitando pa\[D]ñuelos me \[C]iré cantando esta \[B7]zamba repiquetea\[Am]dita \[G] \[B7] \[Em]
+		\endchorus
+		
+		\beginverse
+		\[Em]Vol\[E7]ví y te encon\[Am]tré... toda mi \[D7]voz le dio a la copla un can\[G]tar \[B7] \\
+		\[Em]Agitando pa\[D]ñuelos vol\[C]ví, sintiendo \[B7]también mi pecho agi\[Am]tar \[G] \[B7] \[Em] \\
+		\endverse
+		
+		\beginverse
+		\[E7]Bai\[Am]lé hasta el fi\[D7]nal... engualicha\[G]o, bailé hasta el amane\[B7]cer \\
+		\[Em]Agitando pa\[D]ñuelos bai\[C]lé. ¡Qué lindo \[B7]bailar las zambas de \[Am]ayer! \[G] \[B7] \[Em] \\
+		\endverse
+		
+	
+		\endsong

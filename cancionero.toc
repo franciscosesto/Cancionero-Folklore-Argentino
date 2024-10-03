@@ -1,0 +1,16 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Prefacio}{\es@scroman {iii}}{chapter*.1}%
+\contentsline {chapter}{\numberline {I}Zambas}{1}{chapter.1}%
+\contentsline {section}{Agitando Pañuelos}{2}{section*.3}%
+\contentsline {section}{Al Jardín De La República}{3}{section*.4}%
+\contentsline {section}{De Mi Madre}{4}{section*.5}%
+\contentsline {section}{La Pomeña}{5}{section*.6}%
+\contentsline {section}{La Tempranera}{6}{section*.7}%
+\contentsline {section}{La Viajerita}{7}{section*.8}%
+\contentsline {section}{Luna Tucumana}{8}{section*.9}%
+\contentsline {section}{Saltita}{9}{section*.10}%
+\contentsline {section}{Zamba Del Laurel}{10}{section*.11}%
+\contentsline {section}{Zamba Por Vos}{11}{section*.12}%
+\contentsline {chapter}{\numberline {II}Chacareras}{12}{chapter.2}%
+\contentsline {section}{Chacarera De Un Triste}{13}{section*.13}%
+\contentsline {section}{Salamanqueando Pa' Mi}{14}{section*.14}%

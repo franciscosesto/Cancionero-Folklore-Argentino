@@ -1,0 +1,47 @@
+\beginsong{Al jardín de la república}[by={Virgilio Carmona}]
+
+		\beginverse
+		\[G]Desde el \[D7]norte traigo en el \[G]alma \\
+		\[D7]la alegre \[G]zamba que canto a\[D7]quí \\
+		\[G]y que \[B7]bailan los tucu\[Em]manos \\
+		\[B7]con entusiasmo \[Em]propio de \[D]allí, \\
+		\[C]cada \[B7]cual sigue a su pa\[Em]reja, \\
+		\[B7]joven o vieja, \[Em]de todo vi.
+		\endverse
+		
+		\beginverse
+		\[G]Media \[D7]vuelta y la compa\[G]ñera \\
+		\[D7]forma una \[G]rueda para se\[D7]guir, \\
+		\[G]viene el \[B7]gaucho, le hace un flo\[Em]reo \\
+		\[B7]y un zapateo co\[Em]mienza \[D]allí, \\
+		\[C]sigue el \[B7]gaucho con su flo\[Em]reo \\
+		\[B7]y el zapateo ter\[Em]mina allí.
+		\endverse
+		
+		\beginchorus
+		\[Em]Para las \[E7]otras \[Am]no, \\
+		\[C]Pa' las del \[B7]norte \[Am]sí, \\
+		\[B7]para las Tu\[Em]cumanas, \\
+		\[B7]mujer ga\[Em]lana, \[D]naranjo en \[C]flor \\
+		\[B7]todo lo que ellas \[Em]quieran \\
+		\[B7]que la primera ya \[Em]terminó.
+		\endchorus
+		
+		\beginverse
+		\[G]No me \[D7]olvido, viera, com\[G]padre, \\
+		\[D7]de aquellos \[G]bailes que hacen a\[D7]llí \\
+		\[G]tucuma\[B7]nos y tucuma\[Em]nas, \\
+		\[B7]todos se afanan por \[Em]diver\[D]tir \\
+		\[C]y hacer \[B7]linda esta triste \[Em]vida, \\
+		\[B7]así se olvida que \[Em]hay que morir.
+		\endverse
+		
+		\beginverse
+		\[G]Empa\[D7]nadas y vino en \[G]jarra, \\
+		\[D7]una gui\[G]tarra, bombo y vio\[D7]lín, \\
+		\[G]y unas \[B7]cuantas mozas bi\[Em]zarras \\
+		\[B7]pa' que la farra pueda \[Em]se\[D]guir \\
+		\[C]sin que \[B7]falten esos cole\[Em]ros, \\
+		\[B7]viejos cuenteros, \[Em]pa' que hagan reír.
+		\endverse
+		\endsong

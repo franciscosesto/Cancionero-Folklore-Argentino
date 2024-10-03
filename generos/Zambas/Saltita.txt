@@ -1,0 +1,32 @@
+\beginsong{Saltita}[by={Roberto Ternán}]
+		\beginverse
+		\[Am]Me sigue tu re\[F]cuerdo \[G7]por donde \[C]vaya \\
+		\[D]Y en la zamba carpera m\[F]e llora el a\[G7]lm\[C]a \\
+		\[E7]Y en la zamba car\[Am]pera, Saltita,  \[Dm]me ll\[C]ora \[E7]el al\[Am]ma.
+		\endverse
+		
+		\beginverse
+		Andando solo y \[F]lejos, \[G7]tierra de \[C]Güemes \\
+		\[D]Lágrimas de nostalgias, br\[F]otan a\[G7]vec\[C]es \\
+		\[E7]Lágrimas de nos\[Am]talgias, Saltita, b\[Dm]rot\[C]an a\[E7] ve\[Am]ces.
+		\endverse
+		
+		\beginchorus
+		\[F]Pura nostalgias teng\[C]o, \\
+		\[D]cuando me acuerdo de \[C]Salta \\
+		\[D]Por eso coca y vica nun\[F]ca me f\[G7]alt\[C]a \\
+		\[E7]Soñando carnav\[Am]ales, Saltita, s\[Dm]e v\[C]uelve \[E7]mi al\[Am]ma.
+		\endchorus
+		
+		\beginverse
+		Desde la cruz del \[F]cerro \[G7]ya se adi\[C]vina \\
+		\[D]que por tus calles corren, ca\[F]nto y p\[G7]oes\[C]ía \\
+		\[E7]que por tus calles \[Am]corren, Saltita, c\[Dm]an\[C]to y p\[E7]oes\[Am]ía.
+		\endverse
+		
+		\beginverse
+		Digo tu nombre y \[F]suena \[G7]chura la \[C]zamba \\
+		\[D]como para irse yendo d\[F]e cac\[G7]har\[C]pallas \\
+		\[E7]como para irse \[Am]yendo, Saltita, d\[Dm]e c\[C]ach\[E7]arpal\[Am]las.
+		\endverse
+		\endsong

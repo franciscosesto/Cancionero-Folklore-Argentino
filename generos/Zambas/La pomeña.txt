@@ -1,0 +1,42 @@
+\beginsong{La Pomeña}[by={Cuchi Leguizamón}]
+		\transpose{-3}
+
+		\beginverse
+		\[G7M]Eulogia Tapia en \[Em]La Poma \[Am6]
+		Al \[Am7]aire \[D7]da su ter\[G7M]nura \\
+		\[Dm7]Si pasa sobre la \[Db7]arena \[C7M/G]
+		Iba pi\[Am6]sando la \[D7]luna \[G7M] \\
+		\[F7]Si pasa sobre la \[E7]arena \[A6]
+		Iba pi\[Am6]sando la luna \[G#7M] \[G7M]
+		\endverse
+		
+		\beginverse
+		\[G7M]El trigo que va cor\[Em]tando \[Am6]
+		Ma\[Am7]dura \[D7]por su cin\[G7M]tura \\
+		\[Dm7]Mirando flores de \[Db7]alfalfa \[C7M/G]
+		Sus ojos \[Am6]negros se a\[D7]zulan \[G7M] \\
+		\endverse
+		
+		\beginchorus
+		\[G]El sauc\[G/F#]e de tu ca\[F7]sa 
+		Te está llo\[E]rando \[Am6] \\
+		\[Cm7]Por qué te roban Eu\[F7]logia \[Bm7]
+		Carnava\[D7sus4]leando \[G#7M] \[G7M] \\
+		\[Bm]Por que te roban Eu\[E7(9)]logia \[Am6]
+		Carnava\[D7]leando \[G#maj7] \[Gmaj7]
+		\endchorus
+		
+		\beginverse
+		\[G7M]La cara se le enha\[Em]rina \[Am6]
+		La \[Am7]sombra \[D7]se le ena\[G7M]rena \\
+		\[Dm7]Cantando y desenca\[Db7]ntando \[C7M/G]
+		Se le entre\[Am6]veran las \[G#7M]penas \[G7M]
+		\endverse
+		
+		\beginverse
+		\[G7M]Viene en un caballo \[Em]blanco \[Am6]
+		La \[Am7]caja \[D7]en sus manos \[G7M]tiembla \\
+		\[Dm7]Y cuando se hunde en la \[Db7]noche \[C7M/G]
+		Es una \[Am6]dalia mo\[G#7M]rena \[G7M]
+		\endverse
+		\endsong

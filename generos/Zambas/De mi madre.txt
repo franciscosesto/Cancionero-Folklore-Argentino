@@ -1,0 +1,37 @@
+\beginsong{De mi madre}[by={José Ignacio Rodríguez}]
+    \beginverse
+    \[C]Volveré... \[G7]Volveré...
+    Me espera la \[C]noche, vestida de \[G7]azul \\
+    Y hasta el arro\[E7]yito que baja del \[Am]cerro,
+    tra\[F]erá recu\[C]erdos de m\[G7]i ju\[C]ventud  \\
+    \endverse
+
+    \beginverse
+    \[C]Volveré... \[G7]Volveré...
+    Donde está mi \[C]madre esperándome\[G7]... \\
+    De nuevo en sus [E7]brazos volver a ser \[Am]niño,
+    viv\[F]ir como \[C]solo se v\[G7]ive una \[C]vez \\
+    \endverse
+
+    \beginchorus
+    \[F]Azahar de blancos \[C]jazmines,
+              \[G7]que aroman el patio del \[C]viejo jardín \\
+           \[E7]Un beso de luna, me \[Am]espera en los valles,
+    mi \[F]rancho, mi \[C]madre, todo mi \[G7]sentir \[C] \\
+    \endchorus
+
+    \beginverse
+    \[C]Volveré... \[G7]Volveré...
+    Por ese ca\[C]mino que ayer me ale\[G7]jó \\
+    Al rumbo del \[E7]ave que vuelve a su \[Am]nido,
+    busca\[F]ndo un \[C]alivio pa\[G7]ra su \[C]dolor  \\
+    \endverse
+
+    \beginverse
+    \[C]Volveré... \[G7]Volveré...
+    Y lejos la \[C]noche repite mi \[G7]voz \\
+    La voz de un \[E7]cariño que lejos se \[Am]siente,
+    y ll\[F]ama al \[C]ausente de su co\[G7]razón \[C] \\
+    \endverse
+
+\endsong

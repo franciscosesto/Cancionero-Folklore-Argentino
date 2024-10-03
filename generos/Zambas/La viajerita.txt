@@ -1,0 +1,36 @@
+\beginsong{La viajerita}[by={Atahualpa Yupanqui}]
+			\beginverse
+			\[Am]Desde los cerros \\
+			\[Am]baja esta \[E7]zámbita, \\
+			\[Am]por eso la llamo yo \\
+			\[F]la viajerita, \[C]palomi\[E7]tay. \[Am]
+			\endverse
+			
+			\beginverse
+			\[Am]Sendas de \[E7]arena, \\
+			\[Am]arcos flo\[E7]ridos, \\
+			\[F]y un corazón que pena \\
+			\[C]por un oli\[E7]vido, \[Am]palomi\[E7]tay. \[Am]
+			\endverse
+			
+			\beginchorus
+			\[G7]¡Ay, viajeri\[C]ta! \\
+			\[G7]el alba a\[C]soma, \\
+			\[F]trayendo de los cerros, \\
+			\[C]frescor y a\[E7]roma, \[Am]palomi\[E7]tay. \[Am]
+			\endchorus
+			
+			\beginverse
+			\[Am]Yo soy de a\[E7]rriba, \\
+			\[Am]soy de Go\[E7]chula, \\
+			\[F]ranchitos, montes, ríos, \\
+			\[C]soles y lu\[E7]nas, \[Am]palomi\[E7]tay. \[Am]
+			\endverse
+			
+			\beginverse
+			\[Am]Hasta el Pachi\[E7]vi, \\
+			\[Am]voy los do\[E7]mingos, \\
+			\[F]y por la noche al cerro, \\
+			\[C]vuelvo soli\[E7]to, \[Am]palomi\[E7]tay. \[Am]
+			\endverse
+			\endsong

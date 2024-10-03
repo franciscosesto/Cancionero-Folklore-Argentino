@@ -1,0 +1,41 @@
+\beginsong{La tempranera}[by={Eduardo Falú}]
+			
+			\beginverse
+			\[Em]Eras la temprane\[B7]ra \\
+			niña pri\[E7]mera, amane\[Am]cida flor, \\
+			suave rosa ga\[Em]lana \\
+			la más bo\[F#7]nita Tucuma\[B7]na \[E7] \\
+			\[Am]suave rosa ga\[Em]lana \\
+			la más bo\[B7]nita Tucuma\[Em]na.
+			\endverse
+			
+			\beginverse
+			Frente de adoles\[B7]cente \\
+			gentil mi\[E7]lagro de tu tri\[Am]gueña piel, \\
+			negros ojos sin\[Em]ceros \\
+			paloma \[F#7]tibia de Monte\[B7]ros \[E7] \\
+			negros ojos sin\[Am]ceros \\
+			paloma \[B7]tibia de Monte\[Em]ros.
+			\endverse
+			
+			\beginchorus
+			\[E7]Al bailar esta \[Am]zamba fue \\
+			\[D7]que rendido te \[G]amé \[B7] \[E7] \\
+			\[Am]Eras la temprane\[Em]ra \\
+			de mis ar\[F#7]restos prisione\[B7]ra \[E7] \\
+			\[Am]Mía... ya te sa\[Em]bía \\
+			cuando por \[B7]fin te coro\[Em]né.
+			\endchorus
+			
+			\beginverse
+			Eras la prime\[B7]vera \\
+			la pregone\[E7]ra del delic\[Am]ado amor, \\
+			lloro amarga\[Em]mente \\
+			aquel ro\[F#7]mance adolescen\[B7]te \[E7] \\
+			lloro amarga\[Am]mente \\
+			aquel ro\[B7]mance adolescen\[Em]te.
+			\endverse
+			\endsong
+			
+			
+			

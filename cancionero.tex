@@ -1,0 +1,99 @@
+%
+% Example based on documentation for the songs project:
+% http://songs.sourceforge.net/
+%
+\documentclass[10pt, openany]{book}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[chorded]{songs}
+
+
+%\usepackage[letterpaper, margin=2.5cm]{geometry} % Reduce los márgenes
+\noversenumbers
+
+\newindex{titleidx}{cbtitle}
+\newauthorindex{authidx}{cbauth}
+\newscripindex{scripidx}{cbscrip}
+\newindex{zambasidx}{zambas}
+\newindex{chacarerasidx}{chacareras}
+
+\usepackage{titlesec}
+\usepackage{hyperref} 
+
+
+%\titleformat{\chapter}[display]
+%{\normalfont\bfseries}{}{0pt}{\Huge}
+\newcommand{\authorname}{Cantus Vetus}
+\newcommand{\translatorname}{Francisco Sesto}
+\newcommand{\booktitle}{El libro del Folklore}
+\newcommand{\subtitle}{Bien Argentino}
+\newcommand{\publisher}{Argentina}
+\newcommand{\editionyear}{2024}
+\newcommand{\isbn}{}
+\title{\booktitle}
+\author{\authorname}
+\usepackage{misc/options}
+
+%\renewcommand{\stitlefont}{
+%	\Roman\Large\baselineskip=20pt\lineskiplimit=0pt
+%}
+
+\renewcommand{\stitlefont}{
+	\Roman\Large\baselineskip=20pt\lineskiplimit=0pt
+}
+%\renewcommand{\printchord}[1]{{\color{red!70!black}#1}}
+\newcommand\lmr{\fontfamily{lmr}\selectfont}    
+
+
+\noversenumbers
+
+\renewcommand\printchord[1]{{\lmr\small\sffamily\color{red!70!black}#1}}
+
+\begin{document}
+	% Mostrar el índice de títulos de canciones
+%	\showindex{Índice de Canciones}{titleidx}
+	% Mostrar el índice de autores
+	% Mostrar el índice de referencias a escritura
+%	\showindex{Índice de Referencias a Escritura}{scripidx}
+    \frontmatter
+    \input{frontmatter/titlepage}      % Página de título
+    \input{frontmatter/copyrightpage}  % Página de direitos autorais
+    \input{frontmatter/preface}        % Prefácio
+    \tableofcontents 
+    
+%    \input{frontmatter/tocpage}        % Sumário
+    
+    % Main matter
+    \mainmatter
+    \pagestyle{fancy}  
+
+	\chapter{Zambas}
+	 \newpage
+	
+	\begin{songs}{zambasidx}
+		
+	\input{Zambas.tex}		
+		
+	\end{songs}
+	
+	\chapter{Chacareras}
+	\newpage
+	
+	\begin{songs}{chacarerasidx}
+
+%	\setcounter{songnum}{\thesongcount}	
+	\input{Chacareras.tex}	
+		
+		
+		
+		
+		
+	\end{songs}
+	
+%	\showindex{Índice de Zambas}{zambasidx}
+%	\showindex{Índice de Chacareras}{chacarerasidx}
+	
+	
+	
+\end{document}

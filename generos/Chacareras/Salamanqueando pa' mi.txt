@@ -1,0 +1,61 @@
+\beginsong{Salamanqueando pa' mi}[by={Raúl Carnota}]
+	
+	\beginverse
+	\[C]Cuando me pille la muerte \\
+	\[A7]la vi'a es\[G]perar \\
+	cajoneando fuerte el bombo \\
+	\[A7]l'haigo bai\[G]lar. \\
+	\[G]Salaman\[A7]ca, \[B7]llevate\[Em]la.
+	\endverse
+		
+	\beginverse
+	\[C]Me tope con una bruja \\
+	\[A7]y al des\[G]pertar \\
+	m'encontrado con mi suegra \\
+	\[A7]y se va a que\[G]dar, \\
+	\[G]Salaman\[A7]ca, \[B7]llevate\[Em]la.
+	\endverse
+		
+	\beginverse
+	\[C]El diablo me anda buscando \\
+	\[A7]no me encon\[G]tró \\
+	parece ser que le debo \\
+	\[A7]un alma o \[G]dos \\
+	\[G]Salaman\[A7]ca, \[B7]llevate\[Em]la.
+	\endverse
+		
+	\beginchorus
+	\[C]MI chacarerita doble \\
+	es \[A7]la sin \[G]sol \\
+	machadito y por las noches \\
+	\[A7]sale me\[G]jor. \\
+	\[G]Salaman\[A7]ca, \[B7]llevate\[Em]lo.
+	\endchorus
+		
+		
+	\beginverse
+	\[C]Mi mujer se me ha ido \\
+	\[A7]y un desper\[G]tar \\
+	yo me la encontre gritando \\
+	\[A7]a traba\[G]jar! \\
+	\[G]Salaman\[A7]ca, \[B7]llevate\[Em]lo.
+	\endverse
+		
+	\beginverse
+	\[C]Es agarrado el pulpero \\
+	\[A7]creame\[G]ló \\
+	despues de los veinte vinos \\
+	\[A7]no mas le \[G]fió. \\
+	\[G]Salaman\[A7]ca, \[B7]llevate\[Em]lo.
+	\endverse
+		
+	
+	\beginverse
+	\[C]Me han robado un gallo flaco \\
+	\[A7]y sin espo\[G]lón \\
+	no'i pa riña, ni puchero, \\
+	pobre la\[G]drón. \\
+	\[G]Salaman\[A7]ca, \[B7]llevate\[Em]lo.
+	\endverse
+		
+\endsong

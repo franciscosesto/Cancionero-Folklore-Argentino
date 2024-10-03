@@ -1,0 +1,58 @@
+\beginsong{Chacarera de un triste}[by={Hnos. Simón}]
+		
+		\beginverse
+		\[Em]Para qué quiero vivir \\
+		\[G]Con el corazón deshecho \\
+		\[A]Para qué quiero la \[G]vida \\
+		\[B7]después de lo que me has \[Em]hecho.
+		\endverse
+		
+		\beginverse
+		\[Em]Yo te di mi corazón \\
+		\[G]vos el tuyo voz me entregaste \\
+		\[A]con engaño y así el \[G]mío \\
+		\[B7]prenda lo despedaz\[Em]aste.
+		\endverse
+		
+		\beginverse
+		\[Em]Ay por qué fuiste tan cruel \\
+		\[G]si tu cariño esperaba \\
+		\[A]por qué jugaste con \[G]migo \\
+		\[B7]prenda si te idolatr\[Em]aba.
+		\endverse
+		
+		\beginverse
+		\[Em]Yo del mundo olvide \\
+		\[G]desengaños y amarguras \\
+		\[A]pero lo que vos me \[G]hiciste \\
+		\[B7]prenda mi alma perd\[Em]ura.
+		\endverse
+		
+		\beginverse
+		\[Em]Seguí guitarra seguí \\
+		\[G]seguí como yo llorando \\
+		\[A]compañera hasta la \[G]muerte \\
+		\[B7]seguí mi alma consola\[Em]ndo.
+		\endverse
+		
+		\beginverse
+		\[Em]No hay consuelo ya lo sé \\
+		\[G]para que voy a buscarlo \\
+		\[A]tan deshecha tengo el \[G]alma \\
+		\[B7]que inútil será log\[Em]rarlo.
+		\endverse
+		
+		\beginverse
+		\[Em]Cantando me pasaré \\
+		\[G]muy triste esta chacarera \\
+		\[A]pueda ser que vos te \[G]acuerdes \\
+		\[B7]en el momento que mu\[Em]era.
+		\endverse
+		
+		\beginverse
+		\[Em]Seguí guitarra seguí \\
+		\[G]prenda por lo que me hiciste \\
+		\[A]rasgueando toda la \[G]noche \\
+		\[B7]La chacarera del \[Em]triste.
+		\endverse
+		\endsong

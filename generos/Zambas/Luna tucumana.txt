@@ -1,0 +1,39 @@
+\beginsong{Luna Tucumana}[by={Atahualpa Yupanqui}]
+		\beginverse
+		\[E7]Yo no le canto a la \[Am]luna
+		Porque \[E7]alumbra y nada \[Am]más \[A7] \\
+		\[Dm]Le canto porque ella \[Am]sabe
+		De mi largo \[E7]caminar \[Am] \\
+		\endverse
+		
+		\beginverse
+		\[E7]Hay lunita tucuma\[Am]na
+		Tamborcito \[E7]calcha\[Am]quí \[A7] \\
+		\[Dm]Compañera de los \[Am]gauchos
+		En las sendas de \[E7]Tafí \[Am] \\
+		\endverse
+		
+		\beginchorus
+		\[G]Perdido en las cerra\[C]zones
+		Quien sabe \[G7]vidita por \[F7]donde \[C]andaré \[A7] \\
+		\[Dm]Mas cuando salga la \[Am]luna
+		Canta\[E7]ré, canta\[Am]ré \[A7] \\
+		\[Dm]A mi Tucumán que\[Am]rido
+		Canta\[E7]ré, canta\[Am]ré, canta\[E7]ré \[Am]
+		\endchorus
+		
+		\beginverse
+		\[E7]Con esperanza o con \[Am]pena
+		En los campos de \[E7]acheral \[Am] \[A7] \\
+		\[Dm]Yo he visto a la luna \[Am]buena
+		Besando el caña\[E7]veral \[Am] \\
+		\endverse
+		
+		\beginverse
+		\[E7]Si en algo nos parece\[Am]mos
+		Luna de la so\[E7]ledad \[Am] \[A7] \\
+		\[Dm]Yo voy andando y can\[Am]tando
+		Que es mi modo de \[E7]alumbrar \[Am] \\
+		\endverse
+		
+		\endsong

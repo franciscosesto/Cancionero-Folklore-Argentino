@@ -1,0 +1,47 @@
+\beginsong{Zamba por vos}[by={Alfredo Zitarrosa}]
+    \beginverse
+             
+    \[C]Yo no canto por vos \[G7]\\
+    te canta la zamba \[C]\\
+    y dice al cantar\[G7] \\
+    no te pu\[F]edo olv\[C]idar \\
+    no te pu\[G7]edo olvid\[C]ar.
+    \endverse
+
+    \beginverse
+    \[C]Yo no canto por vos \[G7]\\
+    te canta la zamba \[C]\\
+    y cantando así\[G7] \\
+    canta p\[F]ara m\[C]í \\
+    canta pa\[G7]ra mí\[C].
+    \endverse
+
+    \beginchorus
+    \[C7]Zambita canta\[F] \\
+    no la esperes más \[C] \\
+    tenés qu\[D]e pens\[G7]ar \\
+    que si \[F]no volv\[C]ió \\
+    es que y\[G7]a te olv\[C]idó \\
+    perfum\[C]a esa fl\[G7]or \\
+    que se ma\[F]rchi\[C]tó \\
+    que se mar\[G7]chi\[C]tó.
+    \endchorus
+
+    \beginverse
+    \[C]Yo tuve un amor \[G7]\\
+    lo dejé esperando\[C] \\
+    y cuando volv\[G7]í \\
+    no l\[F]a conocí\[C] \\
+    no l\[G7]a conocí.\[C]
+    \endverse
+
+    \beginverse
+    \[C]Dijo que tal vez \[G7]\\
+    me estuviera amando\[C] \\
+    me miró y se fu\[G7]e \\
+    sin d\[F]ecir por qué\[C] \\
+    sin dec\[G7]ir por qu\[C]é.
+    \endverse
+
+ 
+\endsong
